@@ -1,2 +1,3 @@
 This is the second file using vi editor
 hi i am ruby programming language
+THis is second commit.
